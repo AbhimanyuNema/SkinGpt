@@ -1,0 +1,87 @@
+<resources>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="app_name">MyDashboard</string>
+    <string name="navigationopen">Open Navigation drawer</string>
+    <string name="navigationclose">Close Navigation drawer</string>
+    <string name="blog">
+    Vitamin C is a potent antioxidant that offers numerous benefits for the skin.
+        It helps protect the skin from free radicals and environmental damage, promotes collagen production for improved elasticity and firmness, brightens the complexion by reducing dark spots and hyperpigmentation, aids in skin repair and healing, and provides some protection against sun damage. Overall, vitamin C enhances the skin\'s health, appearance, and resilience, resulting in a more youthful and radiant complexion.Vitamin C boosts skin health, fights free radicals, and improves elasticity, resulting in a youthful and radiant complexion.The benefits of vitamin C on skin are - protection against free radicals, brightens and even skin tone, aids UV photodamage prevention and reduces redness</string>
+
+    <string name="blog2">
+        <b>What is Skin Purging?</b>
+        When it comes down to it, the question of the hour is—what is purging skin? Simply put, a skin purge occurs when your skin reacts to an active ingredient in a new skincare product.
+        Symptoms of Skin Purging
+        As those blemishes make an expedited exit through the skin\'s surface, they can take shape in a variety of forms. While the purging process is different for each person, generally, symptoms of skin purging include:
+        • Whiteheads
+        • Blackheads
+        • Papules
+        • Pustules
+        • Dry, flaky sensitive skin
+        The skin purging process can easily be mistaken for an acne flare-up. With pimples, blackheads, redness, and bumps that give your skin a rough texture, it’s easy to see why. But with the right information, you’ll be able to tell if it’s only a temporary setback like "the purge."
+        For example, let’s say you’re using a product that contains ingredients like retinol, glycolic acid, or another exfoliating acid, which help to expedite cellular turnover. When you shed your dead skin cells, you’re replacing them with fresh, more radiant, healthier skin cells underneath.
+    </string>
+
+    <string name="blog3">
+        Dermatitis is General; Eczema is Specific
+        You know how a croissant is a delicious, buttery, flaky form of pastry—but not all pastries are croissants? In the same way, eczema is a type of dermatitis, but not all dermatitis is eczema.
+        To help you fully understand the difference, we’ll explain what eczema is and then explore the other common types of dermatitis below.
+
+        Eczema, AKA Atopic Dermatitis
+        Dermatitis is a catch-all term for inflamed and irritated skin. Eczema is a specific type, sometimes called “atopic dermatitis.”[3] Eczema is thought to be linked to an overactive immune system and can develop at any age, but it commonly first appears in childhood.
+
+        If you’re suffering from severe eczema specifically, you might have the following skin symptoms:[4]
+
+        Itchy, red skin
+        Rashes, usually on the elbows, knees, or other joints
+        Dry, scaly skin patches
+        Clear fluid that oozes from patchy areas
+    </string>
+
+    <string name="abhi">Abhimanyu- App Developer:
+Meet Abhimanyu,our skilled app developer who transforms concepts into a user-friendly and feature-rich Skin GPT app. With a passion for coding and a focus on creating intuitive user experiences, Abhimanyu integrates advanced AI algorithms and cutting-edge technologies into the app. Through meticulous testing and optimization, Abhimanyu ensures that our app delivers precise and valuable skincare insights to users.</string>
+
+    <string name="har">Hardik - Website Designer:
+Meet Hardik, our talented website designer who crafts the digital interface for our Skin GPT app. With an eye for aesthetics and a deep understanding of user experience, Hardik creates a visually appealing and user-friendly website. By designing intuitive navigation, captivating visuals, and informative content, Hardik ensures that users can easily access the apps features and find valuable skincare information.</string>
+
+    <string name="tia">Rajul -Database Specialist:
+Meet Rajul,our expert database specialist who ensures the seamless functioning of our Skin GPT app. With an extensive knowledge of data management and organization, Rajul optimizes the apps performance by implementing efficient and secure data storage solutions. From developing sophisticated algorithms to analyzing user feedback, Rajul plays a crucial role in providing accurate and personalized skincare recommendations.</string>
+    <string name="gla1">
+        <b>Turmeric (Skin Type- Dry and  Oil)</b>
+
+Blessed with anti-bacterial properties, Turmeric is one divine spice that will never let you down. Turmeric is a powerful antioxidant that helps in achieving that wonderful glow. It has curcumin which is an anti-inflammatory agent and helps to get rid of puffiness. Not only does it give your skin a glow, but turmeric also makes the skin rejuvenated and keeps dull skin at bay. Turmeric not only eliminates free radicals that damage the skin but also enhances collagen production that helps keep the skin supple and fresh.
+
+       <b> How To Use Turmeric for your Skin?</b>
+Mix about half a teaspoon of turmeric powder with a cup of gram flour (chickpea flour). Add enough milk/water and mix well to form a smooth paste. Now, add a few drops of rose water and mix it again. Apply this paste on your face and neck and leave it on till it dries. Then, rinse with cool water.
+    </string>
+                           <string name="gla2"><b>Honey (Skin Type – Oily, Acne-Prone and Combination)</b>
+
+Honey is a great moisturizer and helps to keep the skin well-hydrated. Honey’s anti-bacterial properties help to ward off infections and also reduce blemishes and acne at home. Honey ensures spotless skin. It is rich in bleaching properties and helps in fading of the pigmentation and scars.
+
+       <b> How To Use Honey for your Skin?</b>
+
+You can directly apply honey on your face and neck area but ensure that your skin is clean and damp. Massage for a few minutes, allowing it to get absorbed by the skin. Now, wash off with lukewarm water.
+    </string>
+    <string name="gla3">
+                         <b>Besan (Skin Types-All) </b>
+
+This has been a tried and tested agent in homes over the years. Besan hasn’t failed when the desire for healthier and shinier skin has come calling. Besan or gram flour acts as a natural exfoliator and helps in removing dead skin cells. you don’t need to buy fancy cosmetics or face packs off the shelves. Besan works wonders by bringing to the surface healthier and newer skin.
+
+        <b>How To Use Besan for your Skin?</b>
+
+Besan is used by mixing it with water, milk or any other ingredients. It is applied like a pack on the skin. Sometimes, sugar is also added to help in exfoliation.</string>
+<string name="use">
+    1.Firstly our user must create an account in Skin GPT App or Log in to it.
+
+    2.Then after that the user will be redirected to the home page of the app.
+
+    3.So after it the user may use the main feature skin  disease detection.
+
+    4.The would need to click the Picture of the infected area.
+
+    5.Then the user will be redirected to another where he will get to know about the disease.
+
+    6.So after it the user can explore the blog section, Epi-Care Tips section for additional care and knowledge.
+
+    7.Also the user can contact us through Contact page and also know about our team through About us page.</string>
+</resources>

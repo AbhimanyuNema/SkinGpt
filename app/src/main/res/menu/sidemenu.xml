@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/baseline_photo_camera_24"
+        android:title="Scan Your Disease" />
+
+    <item
+        android:id="@+id/blog_menu"
+        android:icon="@drawable/baseline_laptop_24"
+        android:title="Blog" />
+
+
+    <item
+        android:id="@+id/glamour_menu"
+        android:icon="@drawable/makeup"
+        android:title="Epi-Care tips" />
+
+    <item
+        android:id="@+id/about_menu"
+        android:icon="@drawable/aboutus"
+        android:title="AboutUs" />
+
+    <item
+        android:id="@+id/contact_menu"
+        android:icon="@drawable/contactus"
+        android:title="ContactUs" />
+
+    <item
+        android:id="@+id/logout_menu"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Logout" />
+
+
+</menu>
+
+
+
